@@ -2,7 +2,7 @@ from state_maker import get_ensemble_Q
 import numpy as np
 import matplotlib.pyplot as plt
 from qiskit.visualization import plot_histogram
-from myga_v02 import GeneticOptimization
+from myga import GeneticOptimization
 
 from datetime import datetime
 
